@@ -29,14 +29,14 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>19:35 ～ 19:40</td>
     <td>05分</td>
-    <td colspan="2">② レクリエーションの告知</td>
+    <td colspan="2">① レクリエーションの告知</td>
     <td>橋本さん</td>
     <td>未定</td>
   </tr>
   <tr>
     <td>19:40 ～ 19:50</td>
     <td>10分</td>
-    <td colspan="2">④ jinjer についての説明</td>
+    <td colspan="2">② jinjer についての説明</td>
     <td>斧田さん</td>
     <td>jinjer 打刻方法・ルールについての説明</td>
   </tr>
@@ -50,14 +50,14 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>20:05 ～ 20:20</td>
     <td>15分</td>
-    <td colspan="2">① 先輩インタビュー</td>
+    <td colspan="2">④ 先輩インタビュー</td>
     <td>今立さん</td>
     <td>受託部 清水勝貴さんへのインタビュー</td>
   </tr>
   <tr>
     <td>20:20 ～ 20:30</td>
     <td>10分</td>
-    <td rowspan="5">⑥ ワークショップ（価値観を明確にしよう）</td>
+    <td rowspan="5">⑤ ワークショップ（価値観を明確にしよう）</td>
     <td>ワーク説明</td>
     <td>近藤さん</td>
     <td>動画を使ってワーク内容・方法を説明</td>
@@ -82,19 +82,26 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>21:00 ～ 21:05</td>
     <td>05分</td>
-    <td>感想記載</td>
+    <td>ワークの感想記載</td>
   </tr>
   <tr>
     <td>21:05 ～ 21:10</td>
+    <td>05分</td>
+    <td colspan="2">定例会の感想記載</td>
+    <td>個人</td>
+    <td>定例会の感想記載</td>
+  </tr>
+  <tr>
+    <td>21:10 ～ 21:15</td>
     <td>05分</td>
     <td colspan="2">グループディスカッションの席へ移動</td>
     <td>―</td>
     <td>REMO のテーブルへ移動</td>
   </tr>
   <tr>
-    <td>21:10 ～ 21:55</td>
-    <td>45分</td>
-    <td colspan="2">⑦ グループディスカッション</td>
+    <td>21:15 ～ 21:55</td>
+    <td>40分</td>
+    <td colspan="2">⑥ グループディスカッション</td>
     <td>―</td>
     <td>各テーブルでグループディスカッション</td>
   </tr>
@@ -106,7 +113,6 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>みなさん、お疲れ様でした</td>
   </tr>
 </table>
-
 
 <br/>
 
