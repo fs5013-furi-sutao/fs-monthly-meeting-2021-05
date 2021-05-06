@@ -66,7 +66,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>20:30 ～ 20:40</td>
     <td>10分</td>
     <td rowspan="4">ワーク実施</td>
-    <td rowspan="4">個人</td>
+    <td rowspan="4">各自</td>
     <td>価値観 100 リストから 20 個を選ぶ</td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>21:05 ～ 21:10</td>
     <td>05分</td>
     <td colspan="2">定例会の感想記載</td>
-    <td>個人</td>
+    <td>各自</td>
     <td>定例会の感想記載</td>
   </tr>
   <tr>
