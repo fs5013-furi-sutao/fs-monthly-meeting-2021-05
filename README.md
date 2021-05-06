@@ -52,7 +52,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>15分</td>
     <td colspan="2">④ 先輩インタビュー</td>
     <td>今立さん</td>
-    <td>受託部 清水勝貴さんへのインタビュー</td>
+    <td>受託部 安田直人さんへのインタビュー</td>
   </tr>
   <tr>
     <td>20:20 ～ 20:30</td>
