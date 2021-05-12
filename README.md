@@ -22,14 +22,14 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   </tr>
   <tr>
     <td>19:30 ～ 19:35</td>
-    <td>05分</td>
+    <td>5分</td>
     <td colspan="2">スタート</td>
     <td>今立さん</td>
     <td>あいさつ、前回の振り返り</td>
   </tr>
   <tr>
     <td>19:35 ～ 19:40</td>
-    <td>05分</td>
+    <td>5分</td>
     <td colspan="2">① レクリエーションの告知</td>
     <td>橋本さん</td>
     <td>マーダーミステリーで犯人を見つけろ！</td>
@@ -115,7 +115,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   </tr>
   <tr>
     <td>21:55 ~ 22:00</td>
-    <td>05分</td>
+    <td>5分</td>
     <td colspan="2">おわりに</td>
     <td>今立さん・近藤さん</td>
     <td>みなさん、お疲れ様でした</td>
