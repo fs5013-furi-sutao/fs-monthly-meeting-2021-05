@@ -77,7 +77,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>20:50 ～ 21:00</td>
     <td>10分</td>
-    <td>価値観 10 個から 5 個に絞る</td>
+    <td>選んだ価値観 10 個に順位をつける</td>
   </tr>
   <tr>
     <td>21:00 ～ 21:05</td>
