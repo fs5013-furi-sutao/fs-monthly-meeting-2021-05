@@ -31,7 +31,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <td>05分</td>
     <td colspan="2">① レクリエーションの告知</td>
     <td>橋本さん</td>
-    <td>未定</td>
+    <td>マーダーミステリーで犯人を見つけろ！</td>
   </tr>
   <tr>
     <td>19:40 ～ 19:50</td>
