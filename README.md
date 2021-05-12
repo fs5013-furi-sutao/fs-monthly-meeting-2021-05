@@ -82,26 +82,33 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   </tr>
   <tr>
     <td>21:00 ～ 21:05</td>
-    <td>05分</td>
+    <td>5分</td>
     <td>ワークの感想記載</td>
   </tr>
   <tr>
-    <td>21:05 ～ 21:10</td>
-    <td>05分</td>
+    <td>21:05 ～ 21:15</td>
+    <td>10分</td>
     <td colspan="2">定例会の感想記載</td>
     <td>各自</td>
     <td>定例会の感想記載</td>
   </tr>
   <tr>
-    <td>21:10 ～ 21:15</td>
-    <td>05分</td>
+    <td>21:15 ～ 21:20</td>
+    <td>5分</td>
+    <td colspan="2">グループディスカッションの説明</td>
+    <td>今立さん</td>
+    <td>REMO のテーブルへ移動</td>
+  </tr>
+  <tr>
+    <td>21:20 ～ 21:25</td>
+    <td>5分</td>
     <td colspan="2">グループディスカッションの席へ移動</td>
     <td>―</td>
     <td>REMO のテーブルへ移動</td>
   </tr>
   <tr>
-    <td>21:15 ～ 21:55</td>
-    <td>40分</td>
+    <td>21:25 ～ 21:55</td>
+    <td>30分</td>
     <td colspan="2">⑥ グループディスカッション</td>
     <td>―</td>
     <td>各テーブルでグループディスカッション</td>
