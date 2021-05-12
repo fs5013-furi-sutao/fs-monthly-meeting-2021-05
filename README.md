@@ -120,13 +120,13 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 > A テーブル、B テーブル、C テーブル、D テーブル、E テーブルの方は、以下の「レッド会場」へ
 > 
-> ### FS 4月度定例会 レッド会場    
-> https://live.remo.co/e/fs-4-1
+> ### FS 5月度定例会 レッド会場    
+> https://live.remo.co/e/fs-5
 
-> F テーブル、G テーブル、H テーブル、I テーブル、J テーブルの方は、以下の「ブルー会場」へ
+> F テーブル、G テーブル、H テーブル、I テーブルの方は、以下の「ブラウン会場」へ
 > 
-> ### FS 4月度定例会 ブルー会場    
-> https://live.remo.co/e/fs-4-2
+> ### FS 5月度定例会 ブラウン会場    
+> https://live.remo.co/e/fs-5-1
 
 <h3 id="purpose-of-discussing">💬 グループディスカッションの目的</h3>
 
@@ -152,10 +152,10 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 以下にグループディスカッションを行うテーブル分けのメンバを示します（敬称略）。
 
-> ## FS 4月度定例会 レッド会場    
-> https://live.remo.co/e/fs-4-1
+> ## FS 5月度定例会 レッド会場    
+> https://live.remo.co/e/fs-5
 
-![](./red-hall.png)
+![FS 5月度定例会 レッド会場](./red-hall.png)
 
 ### A テーブル 
 
@@ -189,10 +189,10 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 <br/>
 
-> ## FS 4月度定例会 ブルー会場    
-> https://live.remo.co/e/fs-4-2
+> ## FS 5月度定例会 ブラウン会場    
+> https://live.remo.co/e/fs-5-1
 
-![](./blue-hall.png)
+![FS 5月度定例会 ブラウン会場](./brown-hall.png)
 
 ### F テーブル    
 
@@ -217,12 +217,6 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 本社: 奥原有貴    
 **参加:** 高橋良和  近藤巧  佐藤和輝    
 **途中参加:** 吉村公史  西内優希 
-
-### J テーブル    
-
-本社: 橋本夏樹    
-**参加:** 松浦晴菜        
-**途中参加:** 永島将嗣  三輪一仁  浄土高広  住明日奈    水野裕康   
 
 <br/>
 
