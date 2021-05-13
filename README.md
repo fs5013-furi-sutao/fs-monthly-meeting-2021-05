@@ -134,10 +134,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 価値観明確化ワーク説明:    
 https://youtu.be/SfhjFD-WuC4
 
-### ワークで利用する Excel シート
-
-ワークシート_価値観リスト100:    
-[https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx)
+### ワークで利用する Excel シート  
+[ワークシート_価値観リスト100.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx)
 
 ## ⬛ グループディスカッション
 
