@@ -154,11 +154,11 @@ https://youtu.be/SfhjFD-WuC4
 
 #### Excel ファイルの提出先
 
-メールアドレス： ![提出先メールアドレス](./svg/address-for-submission.svg)
-
-件名： 「価値観明確化ワーク結果：5月度定例会」
-
-Excel ファイル名： 「ワークシート_価値観リスト100_氏名.xlsx」
+> メールアドレス： ![提出先メールアドレス](./svg/address-for-submission.svg)
+> 
+> 件名： 「価値観明確化ワーク結果：5月度定例会」
+> 
+> Excel ファイル名： 「ワークシート_価値観リスト100_氏名.xlsx」
 
 #### Excel ファイルの提出期限
 
