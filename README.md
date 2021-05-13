@@ -154,7 +154,7 @@ https://youtu.be/SfhjFD-WuC4
 
 #### Excel ファイルの提出先
 
-メールアドレス： ![提出先メールアドレス](./address_for_submission.svg)
+メールアドレス： ![提出先メールアドレス](./svg/address_for_submission.svg)
 
 件名： 
 
