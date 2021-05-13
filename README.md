@@ -137,7 +137,7 @@ https://youtu.be/SfhjFD-WuC4
 ### ワークで利用する Excel シート
 
 ワークシート_価値観リスト100:    
-[https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/blob/main/ワークシート_価値観リスト100.xlsx](./ワークシート_価値観リスト100.xlsx)
+[https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx](./raw/main/ワークシート_価値観リスト100.xlsx)
 
 ## ⬛ グループディスカッション
 
