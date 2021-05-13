@@ -134,7 +134,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 ワークを実施する前に以下の動画を視聴して、ワークの目的、ワークの方法などを確認しましょう。
 
 価値観明確化ワーク説明:    
-https://youtu.be/SfhjFD-WuC4
+<a href="https://youtu.be/SfhjFD-WuC4" target="_blank">https://youtu.be/SfhjFD-WuC4</a>
 
 ### ワークで利用する Excel シート  
 
