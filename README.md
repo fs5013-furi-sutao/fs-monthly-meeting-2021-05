@@ -152,9 +152,9 @@ https://youtu.be/SfhjFD-WuC4
 
 ワークが終わった後の Excel ファイルは、メールで人事部あてに提出してください。
 
-#### 送付先
+#### Excel ファイルの提出先
 
-メールアドレス：
+メールアドレス： ![提出先メールアドレス](./address_for_submission.svg)
 
 件名： 
 
