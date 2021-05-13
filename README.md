@@ -136,6 +136,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 価値観明確化ワーク説明:    
 <a href="https://youtu.be/SfhjFD-WuC4" target="_blank">https://youtu.be/SfhjFD-WuC4</a>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 ### ワークで利用する Excel シート  
 
 以下の Excel シートをダウンロードして、ワークを実施してください。
