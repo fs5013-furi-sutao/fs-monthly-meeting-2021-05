@@ -87,14 +87,14 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
   <tr>
     <td>21:00 ～ 21:05</td>
     <td>5分</td>
-    <td>ワークの感想記載</td>
+    <td>Excel 内にワークの感想記載</td>
   </tr>
   <tr>
     <td>21:05 ～ 21:15</td>
     <td>10分</td>
     <td colspan="2">定例会の感想記載</td>
     <td>各自</td>
-    <td>定例会の感想記載</td>
+    <td>フォームに定例会の感想記載</td>
   </tr>
   <tr>
     <td>21:15 ～ 21:20</td>
