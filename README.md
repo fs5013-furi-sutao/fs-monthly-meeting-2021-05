@@ -131,10 +131,15 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 ### ワーク説明動画
 
+ワークを実施する前に以下の動画を視聴して、ワークの目的、ワークの方法などを確認しましょう。
+
 価値観明確化ワーク説明:    
 https://youtu.be/SfhjFD-WuC4
 
 ### ワークで利用する Excel シート  
+
+以下の Excel シートをダウンロードして、ワークを実施してください。
+
 [ワークシート_価値観リスト100.xlsx](https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-05/raw/main/ワークシート_価値観リスト100.xlsx)
 
 ## ⬛ グループディスカッション
