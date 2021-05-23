@@ -84,9 +84,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td>森勇人</td>
   </tr>
   <tr>
-    <td rowspan="6">05月26日</td>
-    <td rowspan="6"><水</td>
-    <td rowspan="6">20:00 ～ 21:00</td>
+    <td rowspan="7">05月26日</td>
+    <td rowspan="7"><水</td>
+    <td rowspan="7">20:00 ～ 21:00</td>
     <td>1</td>
     <td>荒木真護</td>
   </tr>
@@ -111,7 +111,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td>山田優一</td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>7</td>
     <td>山田隆次</td>
   </tr>
 </table>
