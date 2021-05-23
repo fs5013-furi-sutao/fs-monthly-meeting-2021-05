@@ -57,58 +57,62 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td colspan="2">参加メンバ</td>
   </tr>
   <tr>
-    <td rowspan="6">04月22日</td>
-    <td rowspan="6">木</td>
-    <td rowspan="6">20:00 ～ 21:00</td>
+    <td rowspan="6">05月24日</td>
+    <td rowspan="6">月</td>
+    <td rowspan="6">15:00 ～ 16:00</td>
     <td>1</td>
-    <td>山下勇樹</td>
+    <td>内田悠介</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>福嵜拓也</td>
+    <td>打屋遥奈</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>安部貴哉</td>
+    <td>各務拓</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>荒木真護</td>
+    <td>田中聖人</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>佐藤貴一</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>児島史尚</td>
-  </tr>
-  <tr>
-    <td rowspan="6">04月27日</td>
-    <td rowspan="6">火</td>
-    <td rowspan="6">20:30 ～ 21:30</td>
-    <td>1</td>
-    <td>余吾裕</td>
-  </tr>
-  <tr>
-    <td>2</td>
     <td>藤島大介</td>
   </tr>
   <tr>
+    <td>6</td>
+    <td>森勇人</td>
+  </tr>
+  <tr>
+    <td rowspan="6">05月26日</td>
+    <td rowspan="6"><水</td>
+    <td rowspan="6">20:00 ～ 21:00</td>
+    <td>1</td>
+    <td>荒木真護</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>近藤巧</td>
+  </tr>
+  <tr>
     <td>3</td>
-    <td>竹本直矢</td>
+    <td>服部睦</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>佐藤修一郎</td>
+    <td>福嵜拓也</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>大島寿久</td>
+    <td>藤岡大樹</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>藤岡大樹</td>
+    <td>山田優一</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>山田隆次</td>
   </tr>
 </table>
 
