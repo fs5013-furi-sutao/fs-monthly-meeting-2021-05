@@ -88,7 +88,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td rowspan="7">水</td>
     <td rowspan="7">20:00 ～ 21:00</td>
     <td>1</td>
-    <td>荒木真護</td>
+    <td><del>荒木真護</del>（欠席）</td>
   </tr>
   <tr>
     <td>2</td>
