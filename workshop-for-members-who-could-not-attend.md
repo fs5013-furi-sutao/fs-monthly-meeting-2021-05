@@ -92,7 +92,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
   </tr>
   <tr>
     <td>2</td>
-    <td>近藤巧</td>
+    <td><del>近藤巧</del>（欠席）</td>
   </tr>
   <tr>
     <td>3</td>
@@ -100,7 +100,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
   </tr>
   <tr>
     <td>4</td>
-    <td>福嵜拓也</td>
+    <td><del>福嵜拓也</del>（欠席）</td>
   </tr>
   <tr>
     <td>5</td>
