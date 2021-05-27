@@ -84,9 +84,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td>森勇人</td>
   </tr>
   <tr>
-    <td rowspan="7">05月26日</td>
-    <td rowspan="7">水</td>
-    <td rowspan="7">20:00 ～ 21:00</td>
+    <td rowspan="7"><del>05月26日</del>中止</td>
+    <td rowspan="7"><del>水</del></td>
+    <td rowspan="7"><del>20:00 ～ 21:00</del></td>
     <td>1</td>
     <td><del>荒木真護</del>（欠席）</td>
   </tr>
@@ -114,6 +114,33 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td>7</td>
     <td>山田隆次</td>
   </tr>
+  <tr>
+    <td rowspan="6">05月28日</td>
+    <td rowspan="6">金</td>
+    <td rowspan="6">20:00 ～ 21:00</td>
+    <td>1</td>
+    <td>荒木真護</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>竹本直矢</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><del>服部睦</del>（欠席）</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>藤岡大樹</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>山田優一</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>山田隆次</td>
+  </tr>
 </table>
 
 <br />
@@ -131,7 +158,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
 
 <br />
 
-### 5月26日(水) 開催
+<h3><del>5月26日(水) 開催</del>中止</h3>
 
 |時刻 |所要時間 |内容 | 担当 |概要 |
 |:-- |:-- |:-- |:-- |:-- |
