@@ -127,7 +127,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
   </tr>
   <tr>
     <td>3</td>
-    <td><del>服部睦</del>（欠席）</td>
+    <td>服部睦</td>
   </tr>
   <tr>
     <td>4</td>
