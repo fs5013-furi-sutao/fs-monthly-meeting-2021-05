@@ -115,30 +115,26 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
     <td>山田隆次</td>
   </tr>
   <tr>
-    <td rowspan="6">05月28日</td>
-    <td rowspan="6">金</td>
-    <td rowspan="6">20:00 ～ 21:00</td>
+    <td rowspan="5">05月28日</td>
+    <td rowspan="5">金</td>
+    <td rowspan="5">20:00 ～ 21:00</td>
     <td>1</td>
-    <td>荒木真護</td>
-  </tr>
-  <tr>
-    <td>2</td>
     <td>竹本直矢</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>2</td>
     <td>服部睦</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>3</td>
     <td>藤岡大樹</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>4</td>
     <td>山田優一</td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>5</td>
     <td>山田隆次</td>
   </tr>
 </table>
